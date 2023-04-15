@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f19b5c58.css",
+    "main.js": "/static/js/main.4eac506a.js",
+    "static/media/lifeblog.png": "/static/media/lifeblog.4585136edbcfe2129f60.png",
+    "static/media/covid19.png": "/static/media/covid19.a61e3457447469c0fdfc.png",
+    "static/media/recess.png": "/static/media/recess.d0832ebeb1b9a54c7c25.png",
+    "static/media/one24partner.png": "/static/media/one24partner.0222d803c80a61ad2cbb.png",
+    "static/media/lifemedeasy.png": "/static/media/lifemedeasy.976ee04c34bb9d0bbd02.png",
+    "static/media/spotify.png": "/static/media/spotify.f6ad1918c9e2f9326eef.png",
+    "static/media/datamed.png": "/static/media/datamed.9f188a38f826fb2a828e.png",
+    "static/media/color-sharp.png": "/static/media/color-sharp.30b236001442fa66d832.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.04dacdc26e80baa9c2f7.png",
+    "static/media/one24os.png": "/static/media/one24os.7d890358a47cd77e97e4.png",
+    "static/media/one24trade.png": "/static/media/one24trade.337f5302452fda833d3d.png",
+    "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/static/media/header-img.fe6abadd0a518fd15552f72ba14ef5af.svg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/static/media/contact-img.735e1ac48e7663594587cf8048e946bd.svg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/Reactjs.svg": "/static/media/Reactjs.50a2fb48510ba50f2df8431dc036c155.svg",
+    "static/media/Nodejs.svg": "/static/media/Nodejs.ea5b7ced330cd86e0658ce21472f0dd4.svg",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.21de752900320db51ebba9672453cedc.svg",
+    "static/media/Mongodb.svg": "/static/media/Mongodb.e4025ae2e63465b0904a45c7f69b1610.svg",
+    "static/media/JavaScript.svg": "/static/media/JavaScript.02eeffb9826b6bdc192a6ef7964a5d25.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.0833edc334763863908d201b9858501f.svg",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.94ad6d13d90ee2b2da98906873699559.svg",
+    "main.f19b5c58.css.map": "/static/css/main.f19b5c58.css.map",
+    "main.4eac506a.js.map": "/static/js/main.4eac506a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f19b5c58.css",
+    "static/js/main.4eac506a.js"
+  ]
+}
